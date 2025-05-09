@@ -25,7 +25,11 @@ In this repository, you should have access to all of the important documents rel
 - Our finalized Presentation and all other supporting documents.
 
  Qualtrics
-- Access to Qualtrics where you can view our new version of the Client Feedback survey.
+
+https://qualtricsxmyvpj79s7w.pdx1.qualtrics.com/jfe/preview/previewId/04815265-c0cf-4b58-bd59-37fbbe0de786/SV_07jXmofapKrAyEK?Q_CHL=preview&Q_SurveyVersionID=current
+
+-Use the link above to access Qualtrics where you can view our new version of the Client Feedback survey.
+OR
 - Click on "Client_Feedback_Survey.qsf" and then "Add files via upload" to view our survey in Qualtrics
 - Click on "Client_Feedback_Survey.docx" to view an unofficial version of the survey through WordDocuments.
 
