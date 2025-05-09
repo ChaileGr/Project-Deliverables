@@ -23,7 +23,11 @@ In this repository, you should have access to all of the important documents rel
 - The old survey along with the old excel spreadsheet used to organize client feedback
 - Information relating to our newly developed CSV file that acts as an alternative to the excel spreadhseet.
 - Our finalized Presentation and all other supporting documents.
+
+ Qualtrics
 - Access to Qualtrics where you can view our new version of the Client Feedback survey.
+- Click on "Client_Feedback_Survey.qsf" and then "Add files via upload" to view our survey in Qualtrics
+- Click on "Client_Feedback_Survey.docx" to view an unofficial version of the survey through WordDocuments.
 
 
 
